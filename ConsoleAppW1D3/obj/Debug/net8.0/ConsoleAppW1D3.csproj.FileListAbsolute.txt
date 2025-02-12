@@ -1,0 +1,15 @@
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\bin\Debug\net8.0\ConsoleAppW1D3.exe
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\bin\Debug\net8.0\ConsoleAppW1D3.deps.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\bin\Debug\net8.0\ConsoleAppW1D3.runtimeconfig.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\bin\Debug\net8.0\ConsoleAppW1D3.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\bin\Debug\net8.0\ConsoleAppW1D3.pdb
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.AssemblyInfoInputs.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.AssemblyInfo.cs
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.csproj.CoreCompileInputs.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.sourcelink.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\refint\ConsoleAppW1D3.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.pdb
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ConsoleAppW1D3.genruntimeconfig.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day3\Sachidu-2001\BE-u1-w1-d3\ConsoleAppW1D3\obj\Debug\net8.0\ref\ConsoleAppW1D3.dll
